@@ -1,0 +1,1 @@
+Fibernavigator 2 is a multi modal multi purpose tool for analyzation and visualization of data gathered from MRI scans. The main focus lies on the fast and effective selection and visualization of tracking results (fibers).
